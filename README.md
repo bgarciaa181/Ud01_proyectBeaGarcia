@@ -20,4 +20,4 @@ EUR: 10
 - `docs/`: Carpeta para la documentación técnica del proyecto.
 
 ## Autor
-**Bea García** [bgarciaa181](https://github.com/bgarciaa181)
+Bea García 
